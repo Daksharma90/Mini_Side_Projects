@@ -1,3 +1,3 @@
 # My MINI PROJECTS
-This contains a colab notebook which depicts that how we can use RAG for question answering from a particular Document.
-For now it will work for digital document like pdf and docx only. 
+This repo contains all the mini projects that I have builded for my learnings and understanding.
+If you are a beginner then these might help.
